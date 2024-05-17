@@ -79,8 +79,6 @@ ep_robot.close()
 
 ## MobileRobot Movement Image:
 
-![robo](./img/robomaster.png)
-
 Insert image here
 ![image](https://github.com/AnbuSelvanS7/mobilerobot-openloopcontrol/assets/151528411/2a4eb05e-b3d7-411e-8d43-65a94245d1df)
 
